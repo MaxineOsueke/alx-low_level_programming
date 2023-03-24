@@ -1,16 +1,19 @@
 #include "main.h"
 
 /**
- * main: Write a function that checks for uppercase character
- * 0x: the number to be checked
+ * main - function that checks for uppercase character
+ *
+ * @c: the number to be checked
+ *
  * Return: 1 for the for the upper letter and 0 for any else
- */
+*/
 
-int _isupper(int x)
+int _isdigit(int x)
 {
-	if (x >= 65 && x <= 98)
+
+	if (x >= '0' && x <= '9')
 	{
 	return (1);
 	}
 	return (0);
-}	
+}
