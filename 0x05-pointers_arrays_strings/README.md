@@ -1,6 +1,6 @@
 TASKS:
 
-* Write a function that takes a pointer to an int as parameter and updates the value it points to to 98
+* Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
 * Write a function that swaps the values of two integers.
 
@@ -16,12 +16,9 @@ TASKS:
 
 * Write a function that prints half of a string, followed by a new line.
 
-* Write a function that prints n elements of an array of integers, followed by a new line
+* Write a function that prints n elements of an array of integers, followed by a new line.
 
 * Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
-
-Return value: the pointer to dest
-FYI: The standard library provides a similar function: strcpy. Run man strcpy to learn more
 
 * Write a function that convert a string to an integer.
 
