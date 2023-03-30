@@ -6,7 +6,7 @@
  *
  * it will use at most n bytes from src.
  *
- * @dset: The string to be appended on.
+ * @dest: The string to be appended on.
  *
  * @src: The string to be appended to dest.
  *
